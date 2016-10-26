@@ -15,5 +15,5 @@ STAT
 IDEN <username>
 LIST
 MESG <username> <message>
-HAIl <broadbcast message> 
+HAIL <broadbcast message> 
 QUIT
