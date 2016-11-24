@@ -4,8 +4,8 @@ Require Java 1.8
 
 jar file in "jar files" folder can be run with "java -jar chatServer.jar"
 
-Chat server will run on port 9000, mutliple client connecitons can be made using
-a supported chat client applicaiton or telenet
+Chat server will run on port 9000, multiple client connections can be made using
+a supported chat client application or telnet
 
 The following commands are accepted: 
 
